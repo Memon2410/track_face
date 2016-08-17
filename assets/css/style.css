@@ -1,0 +1,28 @@
+video, canvas {
+	margin-left: 230px;
+	margin-top: 120px;
+	position: absolute;
+}
+
+#mask {
+	visibility: hidden;
+}
+
+
+/* Media queries
+-------------------------------------------------------------------------------*/
+
+@media screen and (max-width: 480px) {
+
+
+}
+
+
+
+/* Print styles
+-------------------------------------------------------------------------------*/
+@media print {
+
+
+
+}
